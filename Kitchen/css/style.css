@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.imges { 
+    width:50px;
+    padding-left: 15px;
+
+}
+
+.item h5  { 
+    font-size: 16px;
+    padding: 15px;
+    font-weight: 20;
+}
+.item a { 
+        text-decoration: none;
+        color: #00768B;
+        font-size: 18px;
+        font-weight: 500;
+}
+.title { 
+    text-align: center;
+}
+
+.head { 
+    color: #00768B;
+}
+.header1 {
+    padding-bottom: 5rem;
+}
+.title span { 
+    font-weight: 600;
+}
+.imagekitch  { 
+    height: 60vh;
+    background-position: center center;
+    background-size: cover;
+}
+
+.item4 { 
+    background-color: rgba(255, 255, 255, 0.63);
+    width: 45%;
+    position: absolute;
+    top: 35%;
+    text-align: center;
+    padding: 30px;
+    margin-left: 30px;
+}
+.grid {
+    color: #00768B;
+}
+.item5 { 
+    background-color: rgba(255, 255, 255, 0.63);
+    width: 45%;
+    position: absolute;
+    top: 35%;
+    right: 0;
+    text-align: center;
+    padding: 30px;
+    margin-right: 30px;
+}
+
+.Btn { 
+    background-color:#00768B;
+    padding: 7px 35px;
+    color: #fff;
+}
+.Btn:hover { 
+    background-color: #00768B;
+}
+
+.Continue { 
+   left: 40%;
+   bottom: 10%;
+    background-color: #00768ba6;
+    border-radius: 5px;
+    padding: 10px 15px;
+    border: 0;
+    width: 20%;
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.Continue:hover {
+    background-color: #00768B;
+}
+
+.icon1 i{
+    color: #00768B;
+    font-size: 2.5rem;
+    padding-bottom: 20px;
+}
+
+
+.icon1 a { 
+    color: #00768B;
+}
+
+.lastsec { 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 10px;
+}
+.Second { 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.icons li a { 
+    text-decoration: none;
+}
+.icons li { 
+    list-style: none;
+}
+footer { 
+    background-color: rgb(94, 94, 94);
+    height: 8vh;
+}
+
+.public { 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 10px;
+}
+
+.public a { 
+    text-decoration: none;
+    color: #fff;
+
+}
